@@ -18,11 +18,11 @@ https://jjconstruction.netlify.app/
 
 **Tech used:** HTML, CSS, JavaScript
 
- This project includes flexbox and grid layouts and was designed for responsive window sizing. Additionally, I utilized scripting and animation using JS and JQuery to animate mouse hover and click
+ For this client, I built a website for his small business that includes flexbox and grid layouts and was designed for responsive window sizing. Additionally, I utilized scripting and animation using JS and JQuery to animate mouse hover and click
 events.
 
 
 
 ## Lessons Learned:
 
-This project was a purview into the world of design with CSS. I learned how to design responsively using grid and flexbox. 
+This project was a great lesson in learning how to design with CSs as well as in learning how to communicate with a client.

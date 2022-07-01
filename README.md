@@ -25,4 +25,4 @@ events.
 
 ## Lessons Learned:
 
-This project was a great lesson in learning how to design with CSs as well as in learning how to communicate with a client.
+This project was a great lesson in learning how to design with CSS as well as in learning how to communicate with a client.
